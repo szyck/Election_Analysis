@@ -6,6 +6,6 @@ The election result data that is analyzed has 3 fields: ballot ID, the county of
 
 ## Election Audit Results
 
-
+[Terminal Output]
 
 ## Election Audit Summary
