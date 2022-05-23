@@ -6,6 +6,16 @@ The election result data that is analyzed has 3 fields: ballot ID, the county of
 
 ## Election Audit Results
 
+* There were 369,711 total votes
+  * By Candidate
+    * Charles Casper Stockham had 85,213 votes or 23.0% of total votes cast
+    * Diana Casper Stockham had 272,892 votes or 73.8% of total votes cast, securing her a victory
+    * Raymon Anthony Doane had 11,606 votes or 3.1% of total votes cast
+  * By County
+    * Arapahoe had 24,801 votes or 6.7% of total votes cast
+    * Denver had 306,055 votes or 82.8% of total votes cast
+    * Jefferson had 38,855 votes or 10.5% of total votes cast
+
 ![Terminal Output](Resources/terminal.PNG)
 
 ## Election Audit Summary
